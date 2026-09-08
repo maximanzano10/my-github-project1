@@ -1,2 +1,3 @@
 # my-github-project1
-My first GitHub project
+
+This is my first GitHub project that I've pushed fron my computer!!
